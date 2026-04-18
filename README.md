@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/hormuz-Ai/hormuz-ai/main/hormuz_banner.jpg" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/hormuz-Ai/hormuz-ai/main/hormuz_logo_transparent-1...."
+
 <p align="center">
   src="https://raw.githubusercontent.com/hormuz-Ai/hormuz-ai/main/logo.png"
 </p>
