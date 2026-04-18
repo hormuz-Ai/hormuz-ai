@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hormuz AI</h1>
-<p align="center">Open infrastructure for the agent economy. Built from Kokstad, South Africa.</p>
+<p align="center">Open infrastructure for the agent economy. Built from Vryheid, South Africa.</p>
 
 <p align="center">
   <a href="https://hormuz-ai.github.io/agent-registry">Agent Registry</a> •
