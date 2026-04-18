@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hormuz-Ai/agent-registry/main/logo.png" width="140">
+</p>
 
-<!--
-**hormuz-Ai/hormuz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hormuz AI</h1>
+<p align="center">Open infrastructure for the agent economy. Built from Kokstad, South Africa.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://hormuz-ai.github.io/agent-registry">Agent Registry</a> •
+  <a href="https://hormuz-ai.github.io">Hormuz Visibility</a> •
+  <a href="mailto:hello@hormuz.ai">Contact</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Products
+
+**1. Agent Registry** — Public IDs for AI agents
+> 400k+ agents have wallets. Zero have standard identity. We assign `AR-XXXX` IDs via GitHub. Free forever.
+> → [Live](https://hormuz-ai.github.io/agent-registry) | [GitHub](https://github.com/hormuz-Ai/agent-registry)
+
+**2. Hormuz Visibility** — Make Shopify stores discoverable by ChatGPT, Perplexity, Claude
+> R999 once. 10-minute setup. Pay after live. Built for SA merchants first.
+> → [Learn more](https://hormuz-ai.github.io)
+
+**3. AgentCart** — USDC + Lightning rails for autonomous payments
+> Coming Q2 2026. Private beta.
+
+---
+
+### Why Hormuz
+- Built in public, open source by default
+- Focus: African merchants → global agents
+- No tokens. No hype. Just infrastructure.
+
+**Contact:** WhatsApp +27 | Wise: savioursz
