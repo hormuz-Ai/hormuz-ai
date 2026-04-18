@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://hormuz-ai.github.io/agent-registry">Agent Registry</a> •
   <a href="https://hormuz-ai.github.io">Hormuz Visibility</a> •
-  <a href="mailto:hello@hormuz.ai">Contact</a>
+  <a href="mailto:hormuzai.centurion@gmail.com">Contact</a>
 </p>
 
 ---
@@ -33,4 +33,4 @@
 - Focus: African merchants → global agents
 - No tokens. No hype. Just infrastructure.
 
-**Contact:** WhatsApp +27 | Wise: savioursz
+   **Contact:** WhatsApp [+27 73 194 5176](https://wa.me/27731945176) | Email: [hormuzai.centurion@gmail.com](mailto:hormuzai.centurion@gmail.com) | Wise: savioursz
