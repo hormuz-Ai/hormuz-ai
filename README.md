@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hormuz AI</h1>
-<p align="center"><b>Open infrastructure for the agent economy</b><br>Built from Vryheid, South Africa → global</p>
+<p align="center"><b>Open infrastructure for the agent economy</b><br>Built from Kokstad, South Africa → global</p>
 
 <p align="center">
   <a href="https://hormuz-ai.github.io/agent-registry"><img src="https://img.shields.io/badge/Agent_Registry-Live-00aaff?style=for-the-badge"></a>
